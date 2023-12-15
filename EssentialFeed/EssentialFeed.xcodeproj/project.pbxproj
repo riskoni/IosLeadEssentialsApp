@@ -87,8 +87,6 @@
 		971A664D2B25F57500125DAC = {
 			isa = PBXGroup;
 			children = (
-				974601922B2D043100CB8DA0 /* EssentialFeedAPIEndToEndTests.xctestplan */,
-				972082E72B2CFAF30054D897 /* EssentialFeed.xctestplan */,
 				971A66592B25F57500125DAC /* EssentialFeed */,
 				971A66632B25F57600125DAC /* EssentialFeedTests */,
 				972082ED2B2CFCEB0054D897 /* EssentialFeedAPIEndToEndTests */,
@@ -118,6 +116,7 @@
 		971A66632B25F57600125DAC /* EssentialFeedTests */ = {
 			isa = PBXGroup;
 			children = (
+				972082E72B2CFAF30054D897 /* EssentialFeed.xctestplan */,
 				9777FBA92B289405004DF1E3 /* Feed API */,
 			);
 			path = EssentialFeedTests;
@@ -146,6 +145,7 @@
 		972082ED2B2CFCEB0054D897 /* EssentialFeedAPIEndToEndTests */ = {
 			isa = PBXGroup;
 			children = (
+				974601922B2D043100CB8DA0 /* EssentialFeedAPIEndToEndTests.xctestplan */,
 				972082EE2B2CFCEB0054D897 /* EssentialFeedAPIEndToEndTests.swift */,
 			);
 			path = EssentialFeedAPIEndToEndTests;
