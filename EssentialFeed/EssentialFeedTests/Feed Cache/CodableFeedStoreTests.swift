@@ -1,5 +1,5 @@
 //
-//  CodableFeedStoreCache.swift
+//  CodableFeedStoreTests.swift
 //  EssentialFeedTests
 //
 //  Created by Nikolay Riskov on 22.12.23.
@@ -61,7 +61,7 @@ class CodableFeedStore {
     }
 }
 
-class CodableFeedStoreCache: XCTestCase {
+class CodableFeedStoreTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
